@@ -1,0 +1,863 @@
+{
+  "Name": "appinfo",
+  "Value": null,
+  "Children": [
+    {
+      "Name": "appid",
+      "Value": "2129490",
+      "Children": []
+    },
+    {
+      "Name": "common",
+      "Value": null,
+      "Children": [
+        {
+          "Name": "name",
+          "Value": "Memory Lost: Chapter One",
+          "Children": []
+        },
+        {
+          "Name": "type",
+          "Value": "Game",
+          "Children": []
+        },
+        {
+          "Name": "icon",
+          "Value": "58dedc77ff0557f7e92522f85fb4de2bdcea785c",
+          "Children": []
+        },
+        {
+          "Name": "clienttga",
+          "Value": "6a0d5b2287ede0a941fc10d6469f1c1a328f6287",
+          "Children": []
+        },
+        {
+          "Name": "clienticon",
+          "Value": "7d0888549458eb03f5f487de0dd6568cb25b0c11",
+          "Children": []
+        },
+        {
+          "Name": "oslist",
+          "Value": "windows,linux",
+          "Children": []
+        },
+        {
+          "Name": "osarch",
+          "Value": "64",
+          "Children": []
+        },
+        {
+          "Name": "osextended",
+          "Value": "",
+          "Children": []
+        },
+        {
+          "Name": "releasestate",
+          "Value": "released",
+          "Children": []
+        },
+        {
+          "Name": "content_descriptors",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "0",
+              "Value": "2",
+              "Children": []
+            },
+            {
+              "Name": "1",
+              "Value": "5",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "has_adult_content",
+          "Value": "1",
+          "Children": []
+        },
+        {
+          "Name": "has_adult_content_violence",
+          "Value": "1",
+          "Children": []
+        },
+        {
+          "Name": "controller_support",
+          "Value": "full",
+          "Children": []
+        },
+        {
+          "Name": "small_capsule",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "english",
+              "Value": "capsule_231x87.jpg",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "header_image",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "english",
+              "Value": "header.jpg",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "library_assets",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "library_capsule",
+              "Value": "en",
+              "Children": []
+            },
+            {
+              "Name": "library_hero",
+              "Value": "en",
+              "Children": []
+            },
+            {
+              "Name": "library_logo",
+              "Value": "en",
+              "Children": []
+            },
+            {
+              "Name": "logo_position",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "pinned_position",
+                  "Value": "CenterCenter",
+                  "Children": []
+                },
+                {
+                  "Name": "width_pct",
+                  "Value": "100",
+                  "Children": []
+                },
+                {
+                  "Name": "height_pct",
+                  "Value": "89.5155545001187",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "store_asset_mtime",
+          "Value": "1669913581",
+          "Children": []
+        },
+        {
+          "Name": "associations",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "0",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "type",
+                  "Value": "developer",
+                  "Children": []
+                },
+                {
+                  "Name": "name",
+                  "Value": "Magic Hazard",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "1",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "type",
+                  "Value": "publisher",
+                  "Children": []
+                },
+                {
+                  "Name": "name",
+                  "Value": "Magic Hazard",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "primary_genre",
+          "Value": "1",
+          "Children": []
+        },
+        {
+          "Name": "genres",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "0",
+              "Value": "1",
+              "Children": []
+            },
+            {
+              "Name": "1",
+              "Value": "23",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "category",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "category_2",
+              "Value": "1",
+              "Children": []
+            },
+            {
+              "Name": "category_22",
+              "Value": "1",
+              "Children": []
+            },
+            {
+              "Name": "category_28",
+              "Value": "1",
+              "Children": []
+            },
+            {
+              "Name": "category_45",
+              "Value": "1",
+              "Children": []
+            },
+            {
+              "Name": "category_46",
+              "Value": "1",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "supported_languages",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "english",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "full_audio",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "french",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "german",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "spanish",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "tchinese",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "schinese",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "russian",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "full_audio",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "turkish",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "japanese",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "supported",
+                  "Value": "true",
+                  "Children": []
+                },
+                {
+                  "Name": "subtitles",
+                  "Value": "true",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "steam_release_date",
+          "Value": "1669906872",
+          "Children": []
+        },
+        {
+          "Name": "community_visible_stats",
+          "Value": "1",
+          "Children": []
+        },
+        {
+          "Name": "community_hub_visible",
+          "Value": "1",
+          "Children": []
+        },
+        {
+          "Name": "gameid",
+          "Value": "2129490",
+          "Children": []
+        },
+        {
+          "Name": "exfgls",
+          "Value": "1",
+          "Children": []
+        },
+        {
+          "Name": "store_tags",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "0",
+              "Value": "4255",
+              "Children": []
+            },
+            {
+              "Name": "1",
+              "Value": "19",
+              "Children": []
+            },
+            {
+              "Name": "2",
+              "Value": "4637",
+              "Children": []
+            },
+            {
+              "Name": "3",
+              "Value": "4158",
+              "Children": []
+            },
+            {
+              "Name": "4",
+              "Value": "1774",
+              "Children": []
+            },
+            {
+              "Name": "5",
+              "Value": "5851",
+              "Children": []
+            },
+            {
+              "Name": "6",
+              "Value": "4791",
+              "Children": []
+            },
+            {
+              "Name": "7",
+              "Value": "492",
+              "Children": []
+            },
+            {
+              "Name": "8",
+              "Value": "4166",
+              "Children": []
+            },
+            {
+              "Name": "9",
+              "Value": "4345",
+              "Children": []
+            },
+            {
+              "Name": "10",
+              "Value": "4667",
+              "Children": []
+            },
+            {
+              "Name": "11",
+              "Value": "4182",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "review_score",
+          "Value": "8",
+          "Children": []
+        },
+        {
+          "Name": "review_percentage",
+          "Value": "97",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Name": "extended",
+      "Value": null,
+      "Children": [
+        {
+          "Name": "developer",
+          "Value": "Magic Hazard",
+          "Children": []
+        },
+        {
+          "Name": "publisher",
+          "Value": "Magic Hazard",
+          "Children": []
+        },
+        {
+          "Name": "homepage",
+          "Value": "https://magichazard.com/",
+          "Children": []
+        },
+        {
+          "Name": "isfreeapp",
+          "Value": "1",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Name": "config",
+      "Value": null,
+      "Children": [
+        {
+          "Name": "installdir",
+          "Value": "MemoryLost_ChapterOne",
+          "Children": []
+        },
+        {
+          "Name": "launch",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "0",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "executable",
+                  "Value": "MemoryLost.exe",
+                  "Children": []
+                },
+                {
+                  "Name": "type",
+                  "Value": "default",
+                  "Children": []
+                },
+                {
+                  "Name": "config",
+                  "Value": null,
+                  "Children": [
+                    {
+                      "Name": "oslist",
+                      "Value": "windows",
+                      "Children": []
+                    },
+                    {
+                      "Name": "osarch",
+                      "Value": "64",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "1",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "executable",
+                  "Value": "MemoryLost.sh",
+                  "Children": []
+                },
+                {
+                  "Name": "type",
+                  "Value": "default",
+                  "Children": []
+                },
+                {
+                  "Name": "config",
+                  "Value": null,
+                  "Children": [
+                    {
+                      "Name": "oslist",
+                      "Value": "linux",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "depots",
+      "Value": null,
+      "Children": [
+        {
+          "Name": "baselanguages",
+          "Value": "english",
+          "Children": []
+        },
+        {
+          "Name": "228988",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "config",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "oslist",
+                  "Value": "windows",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "maxsize",
+              "Value": "29212173",
+              "Children": []
+            },
+            {
+              "Name": "depotfromapp",
+              "Value": "228980",
+              "Children": []
+            },
+            {
+              "Name": "sharedinstall",
+              "Value": "1",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "228989",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "config",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "oslist",
+                  "Value": "windows",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "maxsize",
+              "Value": "39042092",
+              "Children": []
+            },
+            {
+              "Name": "depotfromapp",
+              "Value": "228980",
+              "Children": []
+            },
+            {
+              "Name": "sharedinstall",
+              "Value": "1",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "228990",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "config",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "oslist",
+                  "Value": "windows",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "maxsize",
+              "Value": "102931551",
+              "Children": []
+            },
+            {
+              "Name": "depotfromapp",
+              "Value": "228980",
+              "Children": []
+            },
+            {
+              "Name": "sharedinstall",
+              "Value": "1",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "2129491",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "config",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "oslist",
+                  "Value": "windows",
+                  "Children": []
+                },
+                {
+                  "Name": "osarch",
+                  "Value": "64",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "manifests",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "public",
+                  "Value": null,
+                  "Children": [
+                    {
+                      "Name": "gid",
+                      "Value": "2876081554097119272",
+                      "Children": []
+                    },
+                    {
+                      "Name": "size",
+                      "Value": "6767987498",
+                      "Children": []
+                    },
+                    {
+                      "Name": "download",
+                      "Value": "4126145984",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "2129492",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "config",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "oslist",
+                  "Value": "linux",
+                  "Children": []
+                },
+                {
+                  "Name": "osarch",
+                  "Value": "64",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "manifests",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "public",
+                  "Value": null,
+                  "Children": [
+                    {
+                      "Name": "gid",
+                      "Value": "3688583532576063715",
+                      "Children": []
+                    },
+                    {
+                      "Name": "size",
+                      "Value": "6535018603",
+                      "Children": []
+                    },
+                    {
+                      "Name": "download",
+                      "Value": "4041598384",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "branches",
+          "Value": null,
+          "Children": [
+            {
+              "Name": "public",
+              "Value": null,
+              "Children": [
+                {
+                  "Name": "buildid",
+                  "Value": "10185983",
+                  "Children": []
+                },
+                {
+                  "Name": "timeupdated",
+                  "Value": "1671554672",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "ufs",
+      "Value": null,
+      "Children": [
+        {
+          "Name": "quota",
+          "Value": "0",
+          "Children": []
+        },
+        {
+          "Name": "maxnumfiles",
+          "Value": "0",
+          "Children": []
+        },
+        {
+          "Name": "sync_while_suspended",
+          "Value": "1",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}
