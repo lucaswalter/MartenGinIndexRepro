@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamDependencyRepro", "SteamDependencyRepro\SteamDependencyRepro.csproj", "{3D353143-33F1-4323-B61C-39E6C8BD1E83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexRepro", "IndexRepro\IndexRepro.csproj", "{3D353143-33F1-4323-B61C-39E6C8BD1E83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
